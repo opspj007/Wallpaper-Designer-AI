@@ -1,0 +1,9 @@
+Django==5.2.3
+psycopg2-binary
+gunicorn
+pillow
+django-environ
+whitenoise
+razorpay
+requests
+dj-database-url
